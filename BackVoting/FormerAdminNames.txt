@@ -1,0 +1,6 @@
+Hmwith,redirect">Carabinieri
+Exploding Boy,redirect">Tikiwont
+Jerry,redirect">Carabinieri
+Cecropia,redirect">TerriersFan
+Ckatz,inputbox-centered" style="">
+NoSeptember/Admin stats,- NewPP limit reportParsed by mw1092CPU time usage: 0.772 secondsReal time usage: 0.851 secondsPreprocessor visited node count: 2291/1000000Preprocessor generated node count: 11200/1500000Post-expand include size: 22255/2048000 bytesTemplate argument size: 6248/2048000 bytesHighest expansion depth: 11/40Expensive parser function count: 1/500Lua time usage: 0.091/10.000 secondsLua memory usage: 1.47 MB/50 MB-->
